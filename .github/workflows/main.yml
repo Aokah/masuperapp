@@ -17,5 +17,5 @@ jobs:
       # TODO Build using Nix
       - name: Compile Code
         run : |
-          nix-build default.nix
+          nix-build
 
